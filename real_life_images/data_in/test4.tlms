@@ -1,0 +1,16 @@
+left.eyebrow.bend.lower 1 326.4 196.2 0
+left.eyebrow.inner_lower 1 268.8 203.4 0
+right.eyebrow.inner_lower 1 211.2 203.4 0
+right.eyebrow.bend.lower 1 146.4 203.4 0
+left.eye.corner_outer 1 319.2 225 0
+left.eye.corner_inner 1 268.8 225 0
+right.eye.corner_inner 1 211.2 225 0
+right.eye.corner_outer 1 168 232.2 0
+left.nose.wing.tip 1 268.8 297 0
+center.nose.tip 1 240 289.8 0
+right.nose.wing.tip 1 204 289.8 0
+left.lips.corner 1 268.8 333 0
+center.lips.upper.outer 1 232.8 318.6 0
+center.lips.lower.outer 1 232.8 340.2 0
+right.lips.corner 1 189.6 325.8 0
+center.chin.tip 1 240 390.6 0
